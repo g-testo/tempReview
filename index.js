@@ -67,8 +67,6 @@ window.onload = () => {
     // let sneakerElements = document.querySelectorAll("div");
     // let sneakerElementByTagName = document.getElementsByTagName("div");
 
-    // console.log(sneakerElements);
-
     // http://localhost:8081/sneakers
 
     // fetch("http://localhost:8081/sneakers?type=sports")
